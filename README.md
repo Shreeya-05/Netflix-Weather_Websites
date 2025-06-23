@@ -14,7 +14,6 @@ This repository contains two frontend projects built using HTML, CSS, and JavaSc
 A pixel-perfect clone of the Netflix landing page with:
 - Custom navigation bar
 - Hero banner with CTA buttons
-- Content rows styled using Flexbox & Grid
 
 **🛠️ Tech Stack:** HTML, CSS
 
