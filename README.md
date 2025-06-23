@@ -17,6 +17,7 @@ A pixel-perfect clone of the Netflix landing page with:
 - Content rows styled using Flexbox & Grid
 
 **🛠️ Tech Stack:** HTML, CSS
+
 **✨ Features:**  
 - Responsive layout  
 - Clean, modern UI  
