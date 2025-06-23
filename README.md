@@ -33,7 +33,9 @@ A functional weather forecast application that:
 - Displays temperature, humidity, weather icons, and descriptions
 
 **🛠️ Tech Stack:** HTML, CSS, JavaScript  
+
 **🌐 API Used:** OpenWeatherMap
+
 **✨ Features:**  
 - Asynchronous API requests  
 - Dynamic DOM updates  
